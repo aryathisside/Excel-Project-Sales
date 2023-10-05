@@ -36,5 +36,6 @@ Excel Dataset Download (direct): https://bit.ly/3X381ok
 4. Sales are predominantly driven through Amazon, Flipkart, and Myntra channels, contributing around 80% to the overall sales.
  
 **Final conclusion**
+
 -> Target female customers within the age group of 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh by strategically presenting advertisements, offers, and coupons available on Amazon, Flipkart, and Myntra platforms.
 
